@@ -6,7 +6,8 @@ This is a Machine Learning–powered Streamlit web application that predicts whe
 
 ## 🚀 Live Demo
 
-🔗 [Click to Try the App](http://localhost:8501)
+🔗 [Click to Try the App](https://customer-churn-prediction-ergnyegontmq6nbxuuykcj.streamlit.app)
+
 
 
 ---
